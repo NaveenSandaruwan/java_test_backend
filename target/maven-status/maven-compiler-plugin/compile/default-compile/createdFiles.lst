@@ -1,0 +1,14 @@
+com\foodapp\FoodAppApiApplication.class
+com\foodapp\service\DatabaseCheckService.class
+com\foodapp\controller\DatabaseCheckController.class
+com\foodapp\controller\ItemController.class
+com\foodapp\models\SearchItem.class
+com\foodapp\repository\RecommendationRepository.class
+com\foodapp\models\Category.class
+com\foodapp\repository\PopularItemRepository.class
+com\foodapp\models\Recommendation.class
+com\foodapp\repository\SearchItemRepository.class
+com\foodapp\service\CategoryService.class
+com\foodapp\controller\CategoryController.class
+com\foodapp\models\PopularItem.class
+com\foodapp\repository\CategoryRepository.class
